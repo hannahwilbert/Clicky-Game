@@ -1,1 +1,1 @@
-Heroku Link: https://git.heroku.com/puppy-clicky-game.git
+Heroku Link: https://puppy-clicky-game.herokuapp.com/
