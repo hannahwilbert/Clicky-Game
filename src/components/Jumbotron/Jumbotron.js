@@ -1,5 +1,5 @@
 import React from "react";
-import BackgroundImg from "../../img/BackgroundImg.png";
+import BackgroundImg from "../../img/BackgroundImg.gif";
 import './Jumbotron.css'
 
 const JumbotronBackground = { 
