@@ -2,61 +2,61 @@
     {
       "id": 1,
       "name": "1",
-      "url": "./img/Img1.jpg"
+      "url": "./img/Img1.png"
     },
     {
       "id": 2,
       "name": "2",
-      "url": "./img/Img2.jpg"    
+      "url": "./img/Img2.png"    
     },
     {
       "id": 3,
       "name": "3",
-      "url": "./img/Img3.jpg"
+      "url": "./img/Img3.png"
     },
     {
       "id": 4,
       "name": "4",
-      "url": "./img/Img4.jpg" 
+      "url": "./img/Img4.png" 
     },
     {
       "id": 5,
       "name": "5",
-      "url": "./img/Img5.jpg"
+      "url": "./img/Img5.png"
     },
     {
       "id": 6,
       "name": "6",
-      "url": "./img/Img6.jpg"
+      "url": "./img/Img6.png"
     },
     {
       "id": 7,
       "name": "7",
-      "url": "./img/Img7.jpg"
+      "url": "./img/Img7.png"
     },
     {
       "id": 8,
       "name": "8",
-      "url": "./img/Img8.jpg"
+      "url": "./img/Img8.png"
     },
     {
       "id": 9,
       "name": "9",
-      "url": "./img/Img9.jpg"
+      "url": "./img/Img9.png"
     },
     {
       "id": 10,
       "name": "10",
-      "url": "./img/Img10.jpg"
+      "url": "./img/Img10.png"
     },
     {
       "id": 11,
       "name": "11",
-      "url": "./img/Img11.jpg"
+      "url": "./img/Img11.png"
     },
     {
       "id": 12,
       "name": "12",
-      "url": "./img/Img12.jpg"
+      "url": "./img/Img12.png"
     }
   ]
