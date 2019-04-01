@@ -4,7 +4,7 @@ import './Footer.css'
 const Footer = () => (
 
 <footer className="footer bg-info">
-            Clicky Game!! by Eric Jia
+            Clicky Game! By Hannah Wilbert
 </footer>
 
 )
